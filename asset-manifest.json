@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.36bceaac.chunk.css",
-    "main.js": "/static/js/main.30323ef2.chunk.js",
-    "main.js.map": "/static/js/main.30323ef2.chunk.js.map",
+    "main.js": "/static/js/main.1bd909b6.chunk.js",
+    "main.js.map": "/static/js/main.1bd909b6.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.6757a3ef.js",
     "runtime-main.js.map": "/static/js/runtime-main.6757a3ef.js.map",
     "static/js/2.4e30008e.chunk.js": "/static/js/2.4e30008e.chunk.js",
@@ -14,18 +14,22 @@
     "static/js/2.4e30008e.chunk.js.LICENSE.txt": "/static/js/2.4e30008e.chunk.js.LICENSE.txt",
     "static/media/accessibility.dc5e8735.svg": "/static/media/accessibility.dc5e8735.svg",
     "static/media/android.1869cdae.svg": "/static/media/android.1869cdae.svg",
-    "static/media/bbcarticle.079307a4.png": "/static/media/bbcarticle.079307a4.png",
-    "static/media/bbcsport.c77eef6c.png": "/static/media/bbcsport.c77eef6c.png",
-    "static/media/bbcsportsmall.55b443b6.png": "/static/media/bbcsportsmall.55b443b6.png",
-    "static/media/beginners.0802c71a.png": "/static/media/beginners.0802c71a.png",
+    "static/media/bbcarticle.2e375053.png": "/static/media/bbcarticle.2e375053.png",
+    "static/media/bbcsport.919c14e4.png": "/static/media/bbcsport.919c14e4.png",
+    "static/media/bbcsportsmall.c324bb97.png": "/static/media/bbcsportsmall.c324bb97.png",
+    "static/media/beginners.36b3940d.png": "/static/media/beginners.36b3940d.png",
+    "static/media/beginnerssmall.fb0d229c.png": "/static/media/beginnerssmall.fb0d229c.png",
     "static/media/App.css": "/static/media/lora-regular-webfont.5db64e80.woff2",
     "static/media/code.7ccc7699.svg": "/static/media/code.7ccc7699.svg",
-    "static/media/deniselewis.2e659d29.png": "/static/media/deniselewis.2e659d29.png",
+    "static/media/deniselewis.a6c6778b.png": "/static/media/deniselewis.a6c6778b.png",
+    "static/media/deniselewissmall.49b42b7f.png": "/static/media/deniselewissmall.49b42b7f.png",
     "static/media/email.167b08b1.svg": "/static/media/email.167b08b1.svg",
     "static/media/github.dae340d3.svg": "/static/media/github.dae340d3.svg",
     "static/media/instagram.c18edee7.svg": "/static/media/instagram.c18edee7.svg",
-    "static/media/josheverett.9cb42be9.png": "/static/media/josheverett.9cb42be9.png",
-    "static/media/lboroarticle.f40c6cc4.png": "/static/media/lboroarticle.f40c6cc4.png",
+    "static/media/iplayer.81285aec.png": "/static/media/iplayer.81285aec.png",
+    "static/media/iplayersmall.4fcc0138.png": "/static/media/iplayersmall.4fcc0138.png",
+    "static/media/josheverett.71d1db10.png": "/static/media/josheverett.71d1db10.png",
+    "static/media/lboroarticle.d67cda86.png": "/static/media/lboroarticle.d67cda86.png",
     "static/media/linkedin.6713f6ca.svg": "/static/media/linkedin.6713f6ca.svg",
     "static/media/logo.70760d43.svg": "/static/media/logo.70760d43.svg",
     "static/media/twitter.4eba153a.svg": "/static/media/twitter.4eba153a.svg"
@@ -34,6 +38,6 @@
     "static/js/runtime-main.6757a3ef.js",
     "static/js/2.4e30008e.chunk.js",
     "static/css/main.36bceaac.chunk.css",
-    "static/js/main.30323ef2.chunk.js"
+    "static/js/main.1bd909b6.chunk.js"
   ]
 }
