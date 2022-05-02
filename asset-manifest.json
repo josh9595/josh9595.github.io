@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.6dead0b2.chunk.css",
-    "main.js": "/static/js/main.3351dbee.chunk.js",
-    "main.js.map": "/static/js/main.3351dbee.chunk.js.map",
+    "main.css": "/static/css/main.63889185.chunk.css",
+    "main.js": "/static/js/main.61ebec4c.chunk.js",
+    "main.js.map": "/static/js/main.61ebec4c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.6757a3ef.js",
     "runtime-main.js.map": "/static/js/runtime-main.6757a3ef.js.map",
     "static/js/2.335b7c8c.chunk.js": "/static/js/2.335b7c8c.chunk.js",
@@ -10,12 +10,12 @@
     "static/js/3.2b21cbea.chunk.js": "/static/js/3.2b21cbea.chunk.js",
     "static/js/3.2b21cbea.chunk.js.map": "/static/js/3.2b21cbea.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.6dead0b2.chunk.css.map": "/static/css/main.6dead0b2.chunk.css.map",
+    "static/css/main.63889185.chunk.css.map": "/static/css/main.63889185.chunk.css.map",
     "static/js/2.335b7c8c.chunk.js.LICENSE.txt": "/static/js/2.335b7c8c.chunk.js.LICENSE.txt",
     "static/media/accessibility-white.f58b11ef.svg": "/static/media/accessibility-white.f58b11ef.svg",
     "static/media/accessibility.703d77fc.svg": "/static/media/accessibility.703d77fc.svg",
-    "static/media/android-white.8153b00e.svg": "/static/media/android-white.8153b00e.svg",
-    "static/media/android.2027fe09.svg": "/static/media/android.2027fe09.svg",
+    "static/media/android-white.b108b6a3.svg": "/static/media/android-white.b108b6a3.svg",
+    "static/media/android.aa521123.svg": "/static/media/android.aa521123.svg",
     "static/media/App.css": "/static/media/robotoslab-variablefont_wght-webfont.e2822fbf.woff2",
     "static/media/beginners.f7cce8cb.png": "/static/media/beginners.f7cce8cb.png",
     "static/media/code-white.c311c725.svg": "/static/media/code-white.c311c725.svg",
@@ -36,7 +36,7 @@
   "entrypoints": [
     "static/js/runtime-main.6757a3ef.js",
     "static/js/2.335b7c8c.chunk.js",
-    "static/css/main.6dead0b2.chunk.css",
-    "static/js/main.3351dbee.chunk.js"
+    "static/css/main.63889185.chunk.css",
+    "static/js/main.61ebec4c.chunk.js"
   ]
 }
