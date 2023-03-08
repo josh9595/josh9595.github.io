@@ -1,21 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.f96c80ba.chunk.css",
-    "main.js": "/static/js/main.945ac4a4.chunk.js",
-    "main.js.map": "/static/js/main.945ac4a4.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.5976a735.js",
-    "runtime-main.js.map": "/static/js/runtime-main.5976a735.js.map",
-    "static/js/2.0be6721c.chunk.js": "/static/js/2.0be6721c.chunk.js",
-    "static/js/2.0be6721c.chunk.js.map": "/static/js/2.0be6721c.chunk.js.map",
-    "static/js/3.5d1bdd6c.chunk.js": "/static/js/3.5d1bdd6c.chunk.js",
-    "static/js/3.5d1bdd6c.chunk.js.map": "/static/js/3.5d1bdd6c.chunk.js.map",
+    "main.css": "/static/css/main.0114c1da.chunk.css",
+    "main.js": "/static/js/main.267a6902.chunk.js",
+    "main.js.map": "/static/js/main.267a6902.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8dc2a68e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8dc2a68e.js.map",
+    "static/js/2.31e513f3.chunk.js": "/static/js/2.31e513f3.chunk.js",
+    "static/js/2.31e513f3.chunk.js.map": "/static/js/2.31e513f3.chunk.js.map",
+    "static/js/3.a1fabc2f.chunk.js": "/static/js/3.a1fabc2f.chunk.js",
+    "static/js/3.a1fabc2f.chunk.js.map": "/static/js/3.a1fabc2f.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.f96c80ba.chunk.css.map": "/static/css/main.f96c80ba.chunk.css.map",
-    "static/js/2.0be6721c.chunk.js.LICENSE.txt": "/static/js/2.0be6721c.chunk.js.LICENSE.txt",
+    "static/css/main.0114c1da.chunk.css.map": "/static/css/main.0114c1da.chunk.css.map",
+    "static/js/2.31e513f3.chunk.js.LICENSE.txt": "/static/js/2.31e513f3.chunk.js.LICENSE.txt",
     "static/media/accessibility-white.svg": "/static/media/accessibility-white.f58b11ef.svg",
     "static/media/accessibility.svg": "/static/media/accessibility.703d77fc.svg",
     "static/media/android-white.svg": "/static/media/android-white.b108b6a3.svg",
     "static/media/android.svg": "/static/media/android.aa521123.svg",
+    "static/media/arrow-back.svg": "/static/media/arrow-back.29fa7ae3.svg",
+    "static/media/arrow-forward.svg": "/static/media/arrow-forward.0f7934f9.svg",
     "static/media/background.svg": "/static/media/background.f2b10058.svg",
     "static/media/beginners.png": "/static/media/beginners.1b10ba15.png",
     "static/media/code-white.svg": "/static/media/code-white.c311c725.svg",
@@ -35,12 +37,12 @@
     "static/media/platters.png": "/static/media/platters.3329f855.png",
     "static/media/App.css": "/static/media/rubik-regular-webfont.859ebd01.woff",
     "static/media/sport.png": "/static/media/sport.63fff329.png",
-    "static/media/vrooms.png": "/static/media/vrooms.919f4ebb.png"
+    "static/media/vrooms.png": "/static/media/vrooms.de01433e.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.5976a735.js",
-    "static/js/2.0be6721c.chunk.js",
-    "static/css/main.f96c80ba.chunk.css",
-    "static/js/main.945ac4a4.chunk.js"
+    "static/js/runtime-main.8dc2a68e.js",
+    "static/js/2.31e513f3.chunk.js",
+    "static/css/main.0114c1da.chunk.css",
+    "static/js/main.267a6902.chunk.js"
   ]
 }
